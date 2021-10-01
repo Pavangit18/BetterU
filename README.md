@@ -1,0 +1,1 @@
+# BetterU: BetterU is a mental health application for healthy well-being around the world. Our vision is to provide a community service for those who are facing mental health issues. We are building a product that will help people navigate through all types of mental health problems.
